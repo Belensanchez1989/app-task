@@ -4,7 +4,7 @@
 A modern and minimalist **task management web app** built with Angular.
 
 ## 🔗 Live Demo
-👉 https://YOUR-VERCEL-APP-LINK.vercel.app
+👉 https://app-task-wine.vercel.app/
 
 ## 👀 Preview
 ![App Preview](https://github.com/Belensanchez1989/app-task/blob/dc84cc72f5f26ce8caf7b1a47e2921c4e2f1fe6c/3.png)
