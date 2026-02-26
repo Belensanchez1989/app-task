@@ -7,8 +7,9 @@ A modern and minimalist **task management web app** built with Angular.
 👉 https://app-task-wine.vercel.app/
 
 ## 👀 Preview
-![App Preview](https://github.com/Belensanchez1989/app-task/blob/dc84cc72f5f26ce8caf7b1a47e2921c4e2f1fe6c/3.png)
+<img width="647" height="885" alt="Image" src="https://github.com/user-attachments/assets/93bd431b-c891-459b-8404-9215fa624718" />
 
+<img width="639" height="892" alt="Image" src="https://github.com/user-attachments/assets/88d84669-7e7f-46ee-add6-5fa77366c456" />
 ## ✨ Features
 - Create, edit, delete, and complete tasks
 - Filter by status (All / Pending / Completed)
